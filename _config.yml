@@ -1,14 +1,26 @@
-layout_spectrum: 0.6435734354890883
-typography_spectrum: 0.727191099897027
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.37868043361231685
-  lightness: 0.7530071979854256
-  saturation: 0.8020255612209439
-  rhythmicContrast: 0.5774955579545349
+  saturation: 0.8020256
+  brandStrength: 0.3786804336123168
+  lightness: 0.7530072
   brandColors:
     - '#405952'
     - '#9C9B7A'
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
+  rhythmicContrast: 0.2508961
+typography_spectrum: 0
+layout_spectrum: 0.6435734354890883
 name: ODsynth
