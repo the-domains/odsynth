@@ -1,0 +1,14 @@
+layout_spectrum: 0.6435734354890883
+typography_spectrum: 0.727191099897027
+color:
+  brandStrength: 0.37868043361231685
+  lightness: 0.7530071979854256
+  saturation: 0.8020255612209439
+  rhythmicContrast: 0.5774955579545349
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: ODsynth
