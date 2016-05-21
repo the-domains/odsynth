@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ODsynth]]></title>
+        <description><![CDATA[ODsynth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 18:26:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reaction Field | a Processing Installation with GreyScott reaction diffusion]]></title>
+            <description><![CDATA[<article><h1>Reaction Field | a Processing Installation with GreyScott reaction diffusion</h1><p>In drama, students are trained to sense the presence of others on stage and react through the invisible touches. This experiment attempt to simulate a person/an object's disturbance on the Xi/Aura of a room. An infrared camera captures the disturbance on stage and a "force field" is simulated/fauxed on the trail of movement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/718ea4e768b83501d033bb8a72354e1dcc9895d4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=g7f9kKOIep8</link>
+            <guid isPermaLink="false">c802a1f8-b387-469d-abb6-a28ff7707fa1</guid>
+            <pubDate>Sat, 21 May 2016 18:25:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
