@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0
 color:
   saturation: 0.8020256
   brandStrength: 0.3786804336123168
@@ -21,6 +22,5 @@ color:
     - '#FF974F'
     - '#F54F29'
   rhythmicContrast: 0.2508961
-typography_spectrum: 0
-layout_spectrum: 0.6435734354890883
+layout_spectrum: 0
 name: ODsynth
