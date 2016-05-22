@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0
 color:
   saturation: 0.8020256
   brandStrength: 0.3786804336123168
-  lightness: 0.7530072
+  rhythmicContrast: 0.2508961
   brandColors:
     - '#405952'
     - '#9C9B7A'
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-  rhythmicContrast: 0.2508961
-layout_spectrum: 0
+  lightness: 0.7530072
+layout_spectrum: 0.4820789
 name: ODsynth
