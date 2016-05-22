@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7222222
 color:
   saturation: 0.8020256
   brandStrength: 0.3786804336123168
-  rhythmicContrast: 0.2508961
+  lightness: 0.3530466
   brandColors:
     - '#405952'
     - '#9C9B7A'
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-  lightness: 0.7530072
-typography_spectrum: 0.1612903
-layout_spectrum: 0.4820789
+  rhythmicContrast: 0.2508961
+layout_spectrum: 0.702509
 name: ODsynth
