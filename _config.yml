@@ -21,6 +21,6 @@ color:
     - '#716E69'
     - '#A94131'
   rhythmicContrast: 0.5774955579545349
-typography_spectrum: 0.727191099897027
-layout_spectrum: 0.6435734354890883
+typography_spectrum: 0.2795699
+layout_spectrum: 0.2616487
 name: ODsynth
